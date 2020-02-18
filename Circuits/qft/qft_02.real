@@ -1,0 +1,9 @@
+.numvars 2
+.variables x0 x1 
+.constants 01
+.garbage --
+.begin
+h1 x0
+q2:2 x1 x0
+h1 x1
+.end
