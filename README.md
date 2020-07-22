@@ -10,20 +10,20 @@ If you have any questions, feel free to contact us via [iic-quantum@jku.at](mail
 
 ## Benchmarks
 
-##### Entanglement
+#### Entanglement
 These circuits construct a maximally entangled state (also known as Bell state) between all qubits.
 
-##### Qft
-Circuits realising the quantum Fourier transform (QFT). For more information about the algorithm see [Arxiv](https://arxiv.org/abs/quant-ph/0201067) or [Wikipedia](https://en.wikipedia.org/wiki/Quantum_Fourier_transform).
+#### Qft
+Circuits realising the quantum Fourier transform (QFT). For more information about the algorithm, see [Arxiv](https://arxiv.org/abs/quant-ph/0201067) or [Wikipedia](https://en.wikipedia.org/wiki/Quantum_Fourier_transform).
 
-##### Google's Random Circuits
-Random circuits designed by Google in their quest for quantum supremacy. The circuits are provided in the Github repository [GRCS](https://github.com/sboixo/GRCS/tree/master/). For more information about the them see [Arxiv](https://arxiv.org/abs/1608.00263). 
+#### Google's Random Circuits
+Random circuits designed by Google in their quest for quantum supremacy. The circuits are provided in the Github repository [GRCS](https://github.com/sboixo/GRCS/tree/master/). For more information about them, see [Arxiv](https://arxiv.org/abs/1608.00263). 
 
-##### Grover's Algorithm
-Grover's algorithm for database search. For more information about the algorithm see [Arxiv](https://arxiv.org/abs/quant-ph/9605043) or [Wikipedia](https://en.wikipedia.org/wiki/Grover%27s_algorithm).
+#### Grover's Algorithm
+Grover's algorithm for database search. For more information about the algorithm, see [Arxiv](https://arxiv.org/abs/quant-ph/9605043) or [Wikipedia](https://en.wikipedia.org/wiki/Grover%27s_algorithm).
 
-##### Shor's Algorithm
-Circuits realising Shor’s factorization algorithm. For more information about the algorithm see [Arxiv](https://arxiv.org/abs/quant-ph/9508027) or [Wikipedia](hhttps://en.wikipedia.org/wiki/Shor%27s_algorithm).
+#### Shor's Algorithm
+Circuits realising Shor’s factorization algorithm. For more information about the algorithm, see [Arxiv](https://arxiv.org/abs/quant-ph/9508027) or [Wikipedia](hhttps://en.wikipedia.org/wiki/Shor%27s_algorithm).
 
 ## Our papers using this benchmark set
 
