@@ -1,0 +1,6 @@
+[submodule "Circuits/GRCS"]
+	path = Circuits/google_random_circuits
+	url = https://github.com/sboixo/GRCS.git
+[submodule "Circuits/google_random_circuits"]
+	path = Circuits/google_random_circuits
+	url = https://github.com/sboixo/GRCS.git

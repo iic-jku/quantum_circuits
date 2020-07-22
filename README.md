@@ -1,6 +1,6 @@
-# quantum_circuits
+# Quantum Circuits
 
-Benchmarks used in the paper Arrays vs. Decision Diagrams: A Case Study on Quantum Circuit Simulators
+This repository contains a collection of quantum circuits. We are providing these algorithms to increase the reproducibility and transparency of our work.
 
 This work is the result of a collaboration between the [Institute for Integrated Circuits](http://iic.jku.at/eda/) (at the [Johannes Kepler University Linz](https://jku.at)) and the [Quantum & Post Quantum (qpq) Lab](https://www.fh-ooe.at/campus-hagenberg/studiengaenge/master/sichere-informationssysteme/projekte-labs/labs/projekte/p/s/3200/) (at the [University of Applied Sciences Upper Austria](https://www.fh-ooe.at/en/)).
 
@@ -10,15 +10,22 @@ If you have any questions, feel free to contact us via [iic-quantum@jku.at](mail
 
 ## Benchmarks
 
-The Google supremacy benchmarks are taken from https://github.com/sboixo/GRCS/tree/master/inst/rectangular/cz_v2
+##### Entanglement
+These circuits construct a maximally entangled state (also known as Bell state) between all qubits.
 
+##### Qft
+Circuits realising the quantum Fourier transform (QFT). For more information about the algorithm see [Arxiv](https://arxiv.org/abs/quant-ph/0201067) or [Wikipedia](https://en.wikipedia.org/wiki/Quantum_Fourier_transform).
 
-## Acknowledgments
-This work has been supported by the University of Applied Sciences PhD program of the government of Upper Austria (executed by the FFG) as well as the LIT Secure and Correct Systems Lab funded by the State of Upper Austria.
+##### Google's Random Circuits
+Random circuits designed by Google in their quest for quantum supremacy. The circuits are provided in the Github repository [GRCS](https://github.com/sboixo/GRCS/tree/master/). For more information about the them see [Arxiv](https://arxiv.org/abs/1608.00263). 
 
-## Reference
+##### Grover's Algorithm
+Grover's algorithm for database search. For more information about the algorithm see [Arxiv](https://arxiv.org/abs/quant-ph/9605043) or [Wikipedia](https://en.wikipedia.org/wiki/Grover%27s_algorithm).
 
-If you use our work for your research, we would be thankful if you refer to it by citing the following publication:
+##### Shor's Algorithm
+Circuits realising Shor’s factorization algorithm. For more information about the algorithm see [Arxiv](https://arxiv.org/abs/quant-ph/9508027) or [Wikipedia](hhttps://en.wikipedia.org/wiki/Shor%27s_algorithm).
+
+## Our papers using this benchmark set
 
 ```bibtex
 @article{grurl2020caseStudy,
