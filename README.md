@@ -23,7 +23,7 @@ Random circuits designed by Google in their quest for quantum supremacy. The cir
 Grover's algorithm for database search. For more information about the algorithm, see [Arxiv](https://arxiv.org/abs/quant-ph/9605043) or [Wikipedia](https://en.wikipedia.org/wiki/Grover%27s_algorithm).
 
 #### Shor's Algorithm
-Circuits realising Shor’s factorization algorithm. For more information about the algorithm, see [Arxiv](https://arxiv.org/abs/quant-ph/9508027) or [Wikipedia](hhttps://en.wikipedia.org/wiki/Shor%27s_algorithm).
+Circuits realising Shor’s factorization algorithm. For more information about the algorithm, see [Arxiv](https://arxiv.org/abs/quant-ph/9508027) or [Wikipedia](https://en.wikipedia.org/wiki/Shor%27s_algorithm).
 
 ## Our papers using this benchmark set
 
