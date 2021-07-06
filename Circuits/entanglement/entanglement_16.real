@@ -4,7 +4,7 @@
 .garbage ----------------
 .begin
 h1 x0
-t2 x0 x0
+
 t2 x0 x1
 t2 x0 x2
 t2 x0 x3
